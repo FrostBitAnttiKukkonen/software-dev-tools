@@ -3,3 +3,7 @@
 *.pyc
 
 .*DS_Store
+
+somefilename.txt
+somefoldername/
+.dev/
